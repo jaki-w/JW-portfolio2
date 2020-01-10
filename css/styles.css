@@ -37,6 +37,7 @@ h1 {
 }
 
 .about-hidden {
+  display: none;
   text-align: left;
   color: white;
   font-family: monospace;
