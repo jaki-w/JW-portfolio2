@@ -1,14 +1,21 @@
 img {
   width: 300px;
+  float: right;
+  border-radius: 50%;
+  margin-right: 75px;
+  margin-top: 60px;
 }
 
 #hello-info {
   float: left;
   font-family: monospace;
+  text-align: center;
 }
 
 #intro {
   font-size: 20pt;
+  margin-left: 75px;
+  text-align: center;
 }
 
 h1 {
