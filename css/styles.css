@@ -75,5 +75,12 @@ h1 {
 .title {
   text-align: center;
   color: #e8c0e5;
-  font-size: 18pt;
+  font-size: 20pt;
+  font-weight: bold;
+}
+
+.title2 {
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 14pt;
 }
