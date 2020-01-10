@@ -1,9 +1,15 @@
+body, html{
+  background-color: #6bc5d7;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
 img {
   width: 300px;
   float: right;
   border-radius: 50%;
-  margin-right: 75px;
   margin-top: 60px;
+  margin-right: 80px;
 }
 
 #hello-info {
@@ -14,11 +20,18 @@ img {
 
 #intro {
   font-size: 20pt;
-  margin-left: 75px;
   text-align: center;
+  color: white;
+}
+h1 {
+  text-align: center;
+  font-size: 100pt;
+  color: #e8c0e5;
+  font-family: monospace;
+  text-align: left;
 }
 
-h1 {
-  float: left;
-  font-size: 100pt;
+#buttons {
+  margin-top:100px;
+  margin-left: 90px;
 }
