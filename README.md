@@ -22,4 +22,8 @@ _This webpage inlcudes an about me section, a portfolio of my work, a languages 
 
 ## Technologies Used
 
-_HTML, CSS, Bootstrap V3.3.7, Javascript_
+_HTML, CSS, Bootstrap V3.3.7,_
+
+## Legal
+
+_This project is licensed under the MIT license.
