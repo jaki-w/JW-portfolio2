@@ -18,11 +18,11 @@ _This webpage inlcudes an about me section, a portfolio of my work, a languages 
 * _Run $ git clone https://github.com/jaki-w/JW-portfolio2.git ._
 * _Navigate to your computer's desktop and open JW-portfolio2 folder_
 * _Open the index.html file to view page in browser._
-* _To view page in browser without cloning the repositiory: open web browser of choice and navigate to jaki-w.github.io/JW-portfolio2_
+* _To view page in browser without cloning the repositiory: open web browser of choice and navigate to https://jaki-w.github.io/JW-portfolio2 _
 
 ## Technologies Used
 
-_HTML, CSS, Bootstrap V3.3.7,_
+_HTML, CSS, Bootstrap V3.3.7,jQuery V3.4.1_
 
 ## Legal
 
